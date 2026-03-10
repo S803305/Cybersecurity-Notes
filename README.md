@@ -28,7 +28,7 @@ Working toward entry‑level roles such as:
 - Cybersecurity Apprentice  
 
 ## 📫 Connect With Me
-- LinkedIn: *Add your LinkedIn link here*  
+- LinkedIn: 
 - Location: Coventry, UK  
 
 Committed to continuous learning and building a strong foundation in security operations.
